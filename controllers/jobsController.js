@@ -2,7 +2,7 @@ const Job=require('../models/jobs')
 const geoCoder=require('../utils/geocoder')
 const ErrorHandler=require('../utils/errorHandler')
 const catchAsyncErrors=require('../middlewares/catchAsyncErrors')
-const APIFilters =require('../utils/apiFilters.js')
+const APIFilters =require('../utils/apifilters')
 const path=require('path')
 const fs=require('fs')
 
