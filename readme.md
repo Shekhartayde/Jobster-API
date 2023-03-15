@@ -2,7 +2,7 @@
 
 Backend Restful Api for jobs built on Node.js using Express.js $& mongoDB
 
-## For all routes and Info visit-
+## For all routes-info & to know how it works visit-
 https://jobster-api-shekhar.onrender.com/
 
 ## Install All dependancies
