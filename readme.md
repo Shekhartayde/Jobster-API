@@ -8,8 +8,7 @@ https://jobster-api-shekhar.onrender.com/
 ## Install All dependancies
 npm i
 
-## confog.env
-Replace all environment variables
+## config.env
+Replace all environment variables as per your requirement.
 
 
-https://jobster-api-shekhar.onrender.com/
